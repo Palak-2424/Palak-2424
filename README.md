@@ -33,7 +33,7 @@ I am a graduate student at **Northeastern University**, specializing in **Cybers
 ![Nessus](https://img.shields.io/badge/Nessus-04848F?style=for-the-badge)
 ![Sysmon](https://img.shields.io/badge/Sysmon-2E3440?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2C3E50?style=for-the-badge&logo=metasploit)
-![Burp Suite]<img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 
 ---
 
