@@ -1,45 +1,44 @@
-<h1 align="center">Hey, I'm Palak 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Palak+%F0%9F%91%8B;Cybersecurity+Graduate+Student+at+NEU;SOC+Lab+Builder+%F0%9F%94%A5;Blue+Team+Learner+%F0%9F%9A%A8" alt="Typing SVG" />
+</h1>
+
+---
+
+### 👩‍💻 About Me
+
+I am a graduate student at **Northeastern University**, specializing in **Cybersecurity**. I am passionate about defending digital infrastructure, building detection-driven SOC environments, and continuously learning how real-world attacks can be monitored and mitigated. My interests lie in blue teaming, digital forensics, and securing enterprise systems. I enjoy blending hands-on tools with research-backed approaches to security.
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/palakgupta2405)  
+[![Email](https://img.shields.io/badge/Email-palakpg24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palakpg24@gmail.com)
+
+---
+
+### 💻 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=Splunk)
+![Wazuh](https://img.shields.io/badge/Wazuh-0A99FF?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-E34F26?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-04848F?style=for-the-badge)
+![Sysmon](https://img.shields.io/badge/Sysmon-2E3440?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C3E50?style=for-the-badge&logo=metasploit)
+
+---
+
+### 🖼️ Banner
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
-
----
-
-🎓 I'm a Cybersecurity graduate student at **Northeastern University**  
-🛡️ Passionate about **blue teaming**, **threat detection**, and building **real-world SOC labs**  
-🔭 Currently working on a **Home SOC Lab** using **Splunk, Suricata, Sysmon, Nessus, and UTM on macOS**  
-🌱 Always exploring **SIEMs**, **endpoint detection**, **network forensics**, and **cloud security**  
-🤝 Open to **collaboration**, learning, and building alongside the cybersecurity community
-
----
-
-### 📡 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palakg24)  
-📧 palak@example.com *(Replace with your email)*
-
----
-
-### 🧰 Tech Stack
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-0261A8?style=flat&logo=wazuh&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-E34F26?style=flat&logo=suricata&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-000000?style=flat&logo=windows&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-0096D6?style=flat&logo=tenable&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-222222?style=flat&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004275?style=flat&logo=nmap&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Palak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palak-2424&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-2424&layout=compact&theme=radical)
-
----
-
-> Let’s connect and make cybersecurity better together 🔐✨
+![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palak-2424&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak-2424&layout=compact&theme=radical)
