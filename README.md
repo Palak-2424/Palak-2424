@@ -37,14 +37,6 @@ I am a graduate student at **Northeastern University**, specializing in **Cybers
 
 ---
 
-### 🖼️ Banner
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 ![Palak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palak-2424&show_icons=true&theme=radical)
